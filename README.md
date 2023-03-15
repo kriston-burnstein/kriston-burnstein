@@ -9,6 +9,7 @@
 Passionate about education and tech with an interest in AI and Machine Learning. Software Engineer with an artistic background loves creating functional beauty for engaging and performant full stack web applications. Always interested in do-gooder people, projects, and companies. 
 
 Stack: MERN | JavaScript, React, Express, Node, MongoDB
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
 
 
 
