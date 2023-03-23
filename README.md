@@ -1,4 +1,8 @@
+<!-- Banner -->
+
 <a href="https://kristonburnstein.com" target="_blank" rel="noreferrer"><img src="images/kriston-burnstein.png" alt="Kriston Burnstein Miami Based Software Engineer" /></a>
+
+<!-- Typing Text -->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=5001&color=01C5DE&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;✨DREAMER✨;FOREVER+LEARNER;CAPABLE+ALLY" </p>
