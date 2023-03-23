@@ -3,6 +3,24 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=5001&color=01C5DE&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;✨DREAMER✨;FOREVER+LEARNER;CAPABLE+ALLY" </p>
 
+<!-- SOCIALS -->
+ 
+<div align="center">
+  <p align="center">
+    <a href="https://kristonburnstein.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-01C5DE?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://twitter.com/kriston_dev" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-01C5DE?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank">
+      <img src="https://img.shields.io/badge/-Linkedin-01C5DE?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="mailto:kriston.burnstein@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=white&style=for-the-badge"/>
+    </a>
+  </p>
+</div>
 
 <!-- ABOUT ME -->
 
@@ -134,7 +152,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 
 <!-- SOCIALS -->
  
-<h2 align="center" color="white">Connect with me</h2>
+<h2 align="center" color="white">Connect with Me</h2>
 <div align="center">
   <p align="center">
     <a href="https://kristonburnstein.com/" target="_blank">
