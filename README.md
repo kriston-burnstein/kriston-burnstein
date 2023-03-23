@@ -37,6 +37,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <br>
 </br>
 
+<!-- Languages and Tools -->
  
 <h2 align="center" color="white">Languages and Tools</h2>
 
@@ -64,7 +65,9 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="Netlify" width="27" height="27" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="Heroku" width="27" height="27" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="27" height="27" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a></p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227354201-292434bd-c4ad-44c7-ae58-c217c8152637.png" width="27" height="27" alt="Cloudinary" /></a>
+</p>
 
 <br>
 </br>
