@@ -1,18 +1,30 @@
-![Serene Miami](https://user-images.githubusercontent.com/65462564/224855076-a7d74a13-3c3a-469a-808a-2dfd48f8ede4.jpg)
+<a href="https://kristonburnstein.com" target="_blank" rel="noreferrer"><img src="images/kriston-burnstein.png" alt="Kriston Burnstein Miami Based Software Engineer" /></a>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=5001&color=01C5DE&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;✨DREAMER✨;LIFELONG+LEARNER;CAPABLE+ALLY" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=5001&color=01C5DE&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;✨DREAMER✨;FOREVER+LEARNER;CAPABLE+ALLY" </p>
 
-### Hi there 👋, I'm Kriston
-#### A Miami-Based Software Engineer
 
-Passionate about education and tech with an interest in AI and Machine Learning. Software Engineer with an artistic background loves creating functional beauty for engaging and performant full stack web applications. Always interested in do-gooder people, projects, and companies. 
+<!-- ABOUT ME -->
 
-#### Stack 
-MERN | JavaScript, React, Express, Node, MongoDB
+<h2 align="center" color="white">About Me</h2>
+<p align="center">
+Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. I operate with empathy, believe in community, and strive to convey kindness. Always interested in do-gooder people, projects, and companies. Let's connect!<p>
 
-#### Languages and Tools
-<p align="left">
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=961711&currStreakNum=DDDDDD&ring=DD2727&fire=961711&sideLabels=DD2727)](https://git.io/streak-stats">
+</div> -->
+
+
+<br>
+</br>
+
+ 
+<h2 align="center" color="white">Languages and Tools</h2>
+
+<p align="center">MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
+
+<p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="27" height="27" alt="React" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="27" height="27" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="27" height="27" alt="PostgreSQL" /></a>
@@ -36,7 +48,112 @@ MERN | JavaScript, React, Express, Node, MongoDB
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="27" height="27" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a></p>
 
+<br>
+</br>
+
+<!-- Projects -->
+
+<h2 align="center">Projects</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">Parkside Virtual Walks</h3>
+        <br />
+        <a target="_blank" href="https://parkside-virtual-walks-app.herokuapp.com/">
+            <img src="images/parkside-readme.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/kriston-burnstein/parkside-paradise-virtual-walks-app" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://parkside-virtual-walks-app.herokuapp.com/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, and Cloudinary</strong> - Curated immersive virtual walks from YouTube Guides through US National Parks. You're invited to relax, unwind, and experience the splendor of some of the US's most mesmerizing landscapes.</p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">Otherworldly Event Booker</h3>
+        <br />
+        <a target="_blank" href="https://otherworldly-event-booker.herokuapp.com/">
+            <img src="images/otherworldly-app.jpg" width="100%" alt="Otherworldly Event Booker Web App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/kriston-burnstein/otherworldly-event-booker" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://otherworldly-event-booker.herokuapp.com/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Full Stack CRUD app, MVC architecture, JavaScript, EJS, Bootstrap, CSS, Node.js, Express.js, Cloudinary, MongoDB</strong> -  (MVP) A booking app where you can post or find the most mesmerizing creatures and characters to create unforgettable events! Allows users to log in, bookmark, save, and like their favorite characters, and upload their own characters.</p>
+    </td>
+  </tr>  
+  <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">Matty Z Photography</h3>
+        <br />
+        <a target="_blank" href="https://mattyzphotography.netlify.app/">
+            <img src="images/matty-z-photography.jpg" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://mattyzphotography.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Javascript, PHP, HTML5, CSS, Bootstrap 5</strong> - An interactive online showcase of the service offerings from a young adventurous local photographer, featuring all kinds of fun little bells and whistles for visitors to play with on the site. </p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">Amelia Everly Cruises</h3>
+        <br />
+        <a target="_blank" href="https://amelia-everly-cruises.netlify.app/">
+            <img src="images/amelia-everly-cruise.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://amelia-everly-cruises.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>HTML5, CSS, and SASS</strong> - A fully responsive, simple yet beautiful and modern business card website with a South Florida flavor for a Port of Miami based Cruise Consultant, featuring button animations and a moving wave. </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+</br>
+
+<!-- SOCIALS -->
+ 
+<h2 align="center" color="white">Connect with me</h2>
+<div align="center">
+  <p align="center">
+    <a href="https://kristonburnstein.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-01C5DE?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://twitter.com/kriston_dev" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-01C5DE?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank">
+      <img src="https://img.shields.io/badge/-Linkedin-01C5DE?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="mailto:kriston.burnstein@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=white&style=for-the-badge"/>
+    </a>
+  </p>
+</div>
+
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
+
 
 <!--
 **kriston-burnstein/kriston-burnstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
