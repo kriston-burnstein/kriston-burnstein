@@ -69,13 +69,13 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <br>
 </br>
 
-<!-- Projects -->
+<!-- My Work -->
 
-<h2 align="center">Projects</h2>
+<h2 align="center">My Work</h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-        <h3 align="center">Parkside Virtual Walks</h3>
+        <h3 align="center">Parkside Paradise Virtual Walks</h3>
         <br />
         <a target="_blank" href="https://parkside-virtual-walks-app.herokuapp.com/">
             <img src="images/parkside-readme.gif" width="100%" alt="Parkside Virtual Walks App"/>
