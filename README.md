@@ -54,6 +54,8 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="27" height="27" alt="NodeJS" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" alt="NPM" width="27" height="27" /></a>
 <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" alt="Nodemon" width="27" height="27" /></a>
+<a href="https://www.npmjs.com/package/ejs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="EJS" width="27" height="27" /></a>
+<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/handlebars.svg" alt="Handlebars" width="27" height="27" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="27" height="27" alt="Express" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225415415-7f4e5933-b8c4-4897-a6b4-a6a7d4904c1c.png" alt="Postman" width="27" height="27" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/babel.svg" alt="Babel" width="27" height="27" /></a>
@@ -70,7 +72,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="Heroku" width="27" height="27" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="27" height="27" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a>
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227354201-292434bd-c4ad-44c7-ae58-c217c8152637.png" width="27" height="27" alt="Cloudinary" /></a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227605776-d6f18bb3-4af0-4179-b1eb-0e28d9dc4aa4.png" width="27" height="27" alt="Cloudinary" /></a>
 </p>
 
 <br>
