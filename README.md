@@ -32,11 +32,9 @@
 <p align="center">
 Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. I operate with empathy, believe in community, and strive to convey kindness. Always interested in do-gooder people, projects, and companies. Let's connect!<p>
 
-
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=961711&currStreakNum=DDDDDD&ring=DD2727&fire=961711&sideLabels=DD2727)](https://git.io/streak-stats">
 </div> -->
-
 
 <br>
 </br>
@@ -75,6 +73,16 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227605776-d6f18bb3-4af0-4179-b1eb-0e28d9dc4aa4.png" width="27" height="27" alt="Cloudinary" /></a>
 </p>
 
+<!-- Github Stats -->
+    
+<!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=ayu-mirage&border=EB5454&stroke=10EB3F&background=45%2CEB5454%2CEB5454)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=rose-pine&border_radius=0&ring=01C5DE&background=FFFFFF&border=FFFFFF&fire=EB5454&currStreakNum=EB5454&sideNums=01C5DE&stroke=01C5DE&currStreakLabel=EB5454&sideLabels=01C5DE&dates=5A048A)">
+</div> -->
+
+<!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=black-ice&border_radius=0&background=60%2CEB5454%2C202238&currStreakNum=FFFFFF&sideNums=01C5DE&stroke=EB5454">
+</div> -->
+ 
 <br>
 </br>
 
