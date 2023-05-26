@@ -90,6 +90,25 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 
 <h2 align="center">My Work</h2>
 <table bordercolor="#66b2b2">
+<tr>
+    <td width="100%" colspan="2" valign="top">
+        <h3 align="center">FireFinder AI Fire Detection</h3>
+        <br />
+        <a target="_blank" href="https://firefinder.herokuapp.com/">
+            <img src="https://res.cloudinary.com/dogooderdev/image/upload/v1685303542/FireFinder/firefinder.herokuapp.com__j6ykns.png" width="100%" alt="FireFinder AI Fire Detection App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/kriston-burnstein/firefinder-ai" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://firefinder.herokuapp.com/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Full Stack web app using Azure's Cognitive Services Computer Vision, with JavaScript, CSS, EJS, Node.js, Express.js, and Cloudinary</strong> - An Interactive Artificial Intelligence Fire Detection App powered by Azure's Computer Vision. Discover the power of AI in Fire Detection! Upload an image to see the AI in action, learn how this cutting-edge technology works, and explore real world companies around the globe that are using AI to recognize heat, smoke, and fires in real time to detect, suppress, and prevent fires and save lives.</p>
+    </td>
+  </tr>  
   <tr>
     <td width="50%" valign="top">
         <h3 align="center">Parkside Paradise Virtual Walks</h3>
