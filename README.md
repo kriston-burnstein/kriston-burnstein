@@ -161,7 +161,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Javascript, PHP, HTML5, CSS, Bootstrap 5</strong> - An interactive online showcase of the service offerings from a young adventurous local photographer, featuring all kinds of fun little bells and whistles for visitors to play with on the site. </p>
+        <p><strong>JavaScript, PHP, HTML5, CSS, Bootstrap 5</strong> - An interactive online showcase of the service offerings from a young adventurous local photographer, featuring all kinds of fun little bells and whistles for visitors to play with on the site. </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Amelia Everly Cruises</h3>
@@ -178,7 +178,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>HTML5, CSS, and SASS</strong> - A fully responsive, simple yet beautiful and modern business card website with a South Florida flavor for a Port of Miami based Cruise Consultant, featuring button animations and a moving wave. </p>
+        <p><strong>HTML5, CSS, and JavaScript</strong> - A fully responsive, simple yet beautiful and modern business card website with a South Florida flavor for a Port of Miami based Cruise Consultant, featuring button animations and a moving wave. </p>
     </td>
   </tr>
 </table>
