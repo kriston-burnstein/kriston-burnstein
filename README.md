@@ -92,7 +92,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
 <table bordercolor="#66b2b2">
 <tr>
     <td width="100%" colspan="2" valign="top">
-        <h3 align="center">FireFinder AI Fire Detection</h3>
+        <h3 align="center">FireFinder - AI Fire Detection</h3>
         <br />
         <a target="_blank" href="https://firefinder.herokuapp.com/">
             <img src="https://res.cloudinary.com/dogooderdev/image/upload/v1685303542/FireFinder/firefinder.herokuapp.com__j6ykns.png" width="100%" alt="FireFinder AI Fire Detection App"/>
