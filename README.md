@@ -125,7 +125,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, and Cloudinary</strong> - Curated immersive virtual walks from YouTube Guides through US National Parks. You're invited to relax, unwind, and experience the splendor of some of the US's most mesmerizing landscapes.</p>
+        <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, Passport.js, and Cloudinary</strong> - Curated immersive virtual walks from YouTube Guides through US National Parks. You're invited to relax, unwind, and experience the splendor of some of the US's most mesmerizing landscapes.</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Otherworldly Event Booker</h3>
