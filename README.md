@@ -29,7 +29,7 @@
 <!-- ABOUT ME -->
 
 <h2 align="center" color="white">About Me</h2>
-<p align="center">
+<p align="left">
 Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. I operate with empathy, believe in community, and strive to convey kindness. Always interested in do-gooder people, projects, and companies. Let's connect!<p>
 
 <!-- <div align="center">
