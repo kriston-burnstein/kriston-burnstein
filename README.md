@@ -30,7 +30,11 @@
 
 <h2 align="center" color="white">About Me</h2>
 <p align="left">
-Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. I operate with empathy, believe in community, and strive to convey kindness. Always interested in do-gooder people, projects, and companies. Let's connect!<p>
+Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. 
+
+In the tech arena, I strive to bring elegance and innovation together, forging a bridge between the user's need and the digital solution. Each project I undertake is a new adventure, a chance to push boundaries and shape the digital landscape. 
+
+On a personal level, I believe in community and operate with empathy. I'm always interested in do-gooder people, projects, and companies. Let's connect!<p>
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=961711&currStreakNum=DDDDDD&ring=DD2727&fire=961711&sideLabels=DD2727)](https://git.io/streak-stats">
@@ -106,7 +110,7 @@ Hi there! I'm Kriston, a Miami based Software Engineer passionate about educatio
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Full Stack web app using Azure's Cognitive Services Computer Vision, with JavaScript, CSS, EJS, Node.js, Express.js, and Cloudinary</strong> - An Interactive Artificial Intelligence Fire Detection App powered by Azure's Computer Vision. Discover the power of AI in Fire Detection! Upload an image to see the AI in action, learn how this cutting-edge technology works, and explore real world companies around the globe that are using AI to recognize heat, smoke, and fires in real time to detect, suppress, and prevent fires and save lives.</p>
+        <p><strong>Full Stack web app using Azure's Cognitive Services Computer Vision, with JavaScript, CSS, EJS, Node.js, Express.js, Multer, and Cloudinary</strong> - An Interactive Artificial Intelligence Fire Detection App powered by Azure's Computer Vision. Discover the power of AI in Fire Detection! Upload an image to see the AI in action, learn how this cutting-edge technology works, and explore real world companies around the globe that are using AI to recognize heat, smoke, and fires in real time to detect, suppress, and prevent fires and save lives.</p>
     </td>
   </tr>  
   <tr>
