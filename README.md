@@ -118,7 +118,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
         <h3 align="center">Parkside Paradise Virtual Walks</h3>
         <br />
         <a target="_blank" href="https://parkside-virtual-walks-app.herokuapp.com/">
-            <img src="images/parkside-readme.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/parkside-paradise-virtual-walks.jpeg" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
@@ -154,7 +154,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
         <h3 align="center">Matty Z Photography</h3>
         <br />
         <a target="_blank" href="https://mattyzphotography.netlify.app/">
-            <img src="images/matty-z-photography.jpg" width="100%" alt="Matty Z. Photography Website"/>
+            <img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/matty-z.jpg" width="100%" alt="Matty Z. Photography Website"/>
         </a>
         <br />
         <p align="center">
