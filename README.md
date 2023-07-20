@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<a href="https://kristonburnstein.com" target="_blank" rel="noreferrer"><img src="images/kriston-burnstein.png" alt="Kriston Burnstein Miami Based Software Engineer" /></a>
+<a href="https://kristonburnstein.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/kriston-burnstein.png" alt="Kriston Burnstein Miami Based Software Engineer" /></a>
 
 <!-- Typing Text -->
 
@@ -135,7 +135,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
         <h3 align="center">Otherworldly Event Booker</h3>
         <br />
         <a target="_blank" href="https://otherworldly-event-booker.herokuapp.com/">
-            <img src="images/otherworldly-app.jpg" width="100%" alt="Otherworldly Event Booker Web App"/>
+            <img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/otherworldly-app.jpg" width="100%" alt="Otherworldly Event Booker Web App"/>
         </a>
         <br />
         <p align="center">
@@ -154,7 +154,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
         <h3 align="center">Matty Z Photography</h3>
         <br />
         <a target="_blank" href="https://mattyzphotography.netlify.app/">
-            <img src="images/matty-z-photography.jpg" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="images/matty-z-photography.jpg" width="100%" alt="Matty Z. Photography Website"/>
         </a>
         <br />
         <p align="center">
