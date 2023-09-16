@@ -49,59 +49,59 @@ On a personal level, I believe in community and operate with empathy. I'm always
 
 <h3 align="left"><strong>Front End:</strong></h3>
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="35" height="35" alt="React" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="Next.js" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35" height="35" alt="Javascript" /></a>&nbsp;&nbsp;&nbsp;   
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="35" height="35" alt="CSS3" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="35" height="35" alt="TailwindCSS" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35" height="35" alt="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="35" height="35" alt="Material UI" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="35" alt="HTML5" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="34" height="34" alt="React" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="Next.js" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" height="34" alt="Javascript" /></a>&nbsp;&nbsp;&nbsp;   
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="34" height="34" alt="CSS3" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="34" height="34" alt="TailwindCSS" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="34" height="34" alt="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="34" height="34" alt="Material UI" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="34" height="34" alt="HTML5" /></a>
 </p>
 
 <!-- Back End -->
 
 <h3 align="left"><strong>Back End:</strong></h3>
 <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="35" height="35" alt="MongoDB" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="35" height="35" alt="NodeJS" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" alt="Nodemon" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" alt="NPM" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="35" height="35" alt="Express" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/package/ejs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="EJS" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/handlebars.svg" alt="Handlebars" width="35" height="35" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dogooderdev/image/upload/v1694873694/GitHub%20Profile%20Readme/Node_2_ai4lco.png" width="34" height="34" alt="NodeJS" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dogooderdev/image/upload/v1694870158/GitHub%20Profile%20Readme/mongodb_ddx3pm.png" width="130" height="34" alt="MongoDB" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" alt="NPM" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" alt="Nodemon" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="34" height="34" alt="Express" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/ejs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="EJS" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/handlebars.svg" alt="Handlebars" width="34" height="34" /></a>
 </p>
 
 <!-- Testing and Build Tools -->
 
 <h3 align="left"><strong>Testing and Build Tools:</strong></h3>
 <p align="left">
-    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/babel.svg" alt="Babel" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer"><img src="https://github.com/kriston-burnstein/kriston-burnstein/assets/65462564/12601d5d-0358-4a44-925d-e2fda2045563" alt="SuperTest" width="140" height="35" /></a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/babel.svg" alt="Babel" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dogooderdev/image/upload/v1694869067/GitHub%20Profile%20Readme/supertest-icon_3_yntnhs.png" alt="SuperTest" width="136" height="34" /></a>
 </p>
 
 <!-- Deployment and Cloud Services -->
 
 <h3 align="left"><strong>Deployment and Cloud Services:</strong></h3>
 <p align="left">
-    <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="Azure" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.cyclic.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225406088-82b0b16b-8f9b-4d21-8826-e36b71d2c458.png" alt="Cyclic.sh" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="Netlify" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel.svg" alt="Vercel" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="Heroku" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227605776-d6f18bb3-4af0-4179-b1eb-0e28d9dc4aa4.png" width="35" height="35" alt="Cloudinary" /></a>
+    <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="Azure" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.cyclic.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225406088-82b0b16b-8f9b-4d21-8826-e36b71d2c458.png" alt="Cyclic.sh" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="Netlify" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel.svg" alt="Vercel" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="Heroku" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/227605776-d6f18bb3-4af0-4179-b1eb-0e28d9dc4aa4.png" width="34" height="34" alt="Cloudinary" /></a>
 </p>
 
 <!-- Development Tools and Others -->
 
 <h3 align="left"><strong>Development Tools and Others:</strong></h3>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="35" height="35" alt="Git" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225415415-7f4e5933-b8c4-4897-a6b4-a6a7d4904c1c.png" alt="Postman" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://github.com/kriston-burnstein/kriston-burnstein/assets/65462564/1aa10d4d-2d40-4bfc-9934-bcae8a1a33fb" alt="Sublime" width="35" height="35" /></a>
-    <!--     <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/markdown.svg" alt="Markdown" width="35" height="35" /></a> -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225415415-7f4e5933-b8c4-4897-a6b4-a6a7d4904c1c.png" alt="Postman" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dogooderdev/image/upload/v1694869067/GitHub%20Profile%20Readme/sublimetext_94866_y1jmqj.png" alt="Sublime" width="34" height="34" /></a>
+    <!--     <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/markdown.svg" alt="Markdown" width="34" height="34" /></a> -->
 </p>
  
 <br>
@@ -163,7 +163,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>React SPA Front End using a Next.js framework, MUI, Emotion, Formik, AOS, and Yup, built on Node.js </strong> - Luxurious Living Art Licensing by Kikimora: Elevate premier events with elaborate interactive art. Explore the exclusive collection, engage in a seamless licensing journey, and elevate your upscale occasions with reimagined event entertainment.</p>
+        <p><strong>React SPA using a Next.js framework, MUI, Emotion, Formik, AOS, and Yup, built on Node.js </strong> - Luxurious Living Art Licensing by Kikimora: Elevate premier events with elaborate interactive art. Explore the exclusive collection, engage in a seamless licensing experience, and elevate your upscale occasions with reimagined event entertainment.</p>
     </td>
   </tr>  
   <tr>
