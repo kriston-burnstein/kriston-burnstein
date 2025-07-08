@@ -1,20 +1,17 @@
 <!-- Banner -->
 
-<a href="https://kristonburnstein.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/kriston-burnstein.png" alt="Kriston Burnstein Miami Based Software Engineer" /></a>
+<a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/kriston-burnstein.png" alt="Kriston Burnstein Product Strategist with Full Stack Fluency" /></a>
 
 <!-- Typing Text -->
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=01C5DE&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;CAPABLE+ALLY;✨DREAMER✨"</p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=01C5DE&vCenter=true&center=true&width=460&lines=PRODUCT+STRATEGIST;SOFTWARE+ENGINEER;COMMUNITY+DEVELOPER;CAPABLE+ALLY"</p>
 
 <!-- SOCIALS -->
  
 <div align="center">
   <p align="center">
-    <a href="https://kristonburnstein.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-29293d?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXElEQVR4nO1aTWsUQRCtEj0ofhzFu/4BP/DjoBfBo4jmLij5B0bRg4J4MSwGooJg/AFeRfC20a2aiMwxm4DZqg2BKCgIntxDQktvQkQTw7jOTPfs1IN3nJlXr6erq4sCMBgMW8K5HdDqHIOkewlYRytJrz1ZPNqPJTNSOYCsD5DkM7K64aB8QpL78P7j/u2D54UzwxX4ZiOAuqe3Dj7Rc8jaCy+ycPaA9ezvwb9dPISsXyMQVxa/wIwc3IgfSZ5FIKpsPl2Lvjm7F1l+RCCobPaA5veBPyoiEBOEQHoRgPVmjQ244ff/eGghwUgyDsjayPjAEpK+rAS91mwxNf7BAHkIFYHXagaw/QHOtgBbDnCWBNlOAWfHIFsd4KwQYqsEnZXCbHcBZ5chttugs+swWz/AWUOErSPkrCXG1hNsWFMUrSus2driJG8g0ZEq0GstoCusw8iGGYD2B6htAQy/Fy0HYKgkCCz3IliJIATSu35CZLS+Bsh1gGThcG0NmOkcWR8o0DS0mNJJ+uHXSAXrhdqtfiLn/xgr0cn6rL482jxY02zuRNIXwcUVz+c+1r9PGLXkWn+8PLzQnCnLQN2r2cas0uU9a9dKnUKS6fUkOQDzGMHtv2Ow73vtpFPAcgWSpd1QNpClnYMBbagqsLYGtLqnkGQCSb//twH+HSQT8E5PQiXAcgtJVnNPYiSrQDoGUYPlBLKsFJjJV4A6xyFWYCmT5xHPLCPpk8INIH0M0SLRkaINAJLLEC2cQ2R9XeDqv/LfgKiRpruA5A6SzCHLt5zYBpLb29fwBhgEPwFf/RoppyBh9gAAAABJRU5ErkJggg==&style=for-the-badge"/>
-    </a>
-    <a href="https://twitter.com/kriston_dev" target="_blank">
+    <a href="https://twitter.com/CreatesClarity" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-29293d?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank">
@@ -32,11 +29,11 @@
 
 <h2 align="center" color="white">About Me</h2>
 <p align="left">
-Hi there! I'm Kriston, a Miami based Software Engineer passionate about education and tech with an interest in AI and Machine Learning. I leverage an artistic background to create functional beauty for engaging and performant full stack web applications. 
+Hi, I’m Kriston.
 
-In the tech arena, I strive to bring elegance and innovation together, forging a bridge between the user's need and the digital solution. Each project I undertake is a new adventure, a chance to push boundaries and shape the digital landscape. 
+My work centers on creating clarity from complexity and I enjoy cutting through the noise. I’m a Product Strategist with a software engineering edge, using this space to prototype, test ideas, and stay close to the build process.
 
-On a personal level, I believe in community and operate with empathy. I'm always interested in do-gooder people, projects, and companies. Let's connect!<p>
+I believe in community and operate with empathy. I'm always interested in connecting with socially conscious builders and teams.<p>
 
 <br>
 </br>
@@ -109,9 +106,9 @@ On a personal level, I believe in community and operate with empathy. I'm always
 <br>
 </br>
 
-<!-- My Work -->
+<!-- My Builds -->
 
-<h2 align="center">My Work</h2>
+<h2 align="center">My Builds</h2>
 <table bordercolor="#66b2b2">
 <tr>
     <td width="100%" colspan="2" valign="top">
@@ -126,7 +123,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://firefinder.herokuapp.com/" target="_blank">
-                <img src="https://img.shields.io/badge/-Website-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/-Demo-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
             </a>	
         </p>
         <p><strong>Full Stack web app using Azure's Cognitive Services Computer Vision, with JavaScript, CSS, EJS, Node.js, Express.js, Multer, and Cloudinary</strong> - An Interactive Artificial Intelligence Fire Detection App powered by Azure's Computer Vision. Discover the power of AI in Fire Detection! Upload an image to see the AI in action, learn how this cutting-edge technology works, and explore real world companies around the globe that are using AI to recognize heat, smoke, and fires in real time to detect, suppress, and prevent fires and save lives.</p>
@@ -145,7 +142,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://parkside-virtual-walks-app.herokuapp.com/" target="_blank">
-                <img src="https://img.shields.io/badge/-Website-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/-Demo-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
             </a>	
         </p>
         <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, Passport.js, and Cloudinary</strong> - Curated immersive virtual walks from YouTube Guides through US National Parks. You're invited to relax, unwind, and experience the splendor of some of the US's most mesmerizing landscapes.</p>
@@ -162,7 +159,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://kikimora-licensing.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/badge/-Website-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/-Demo-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
             </a>	
         </p>
         <p><strong>React SPA using a Next.js framework, MUI, Emotion, Formik, AOS, and Yup, built on Node.js </strong> - Luxurious Living Art Licensing by Kikimora: Elevate premier events with elaborate interactive art. Explore the exclusive collection, engage in a seamless licensing experience, and elevate your upscale occasions with reimagined event entertainment.</p>
@@ -181,7 +178,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://mattyzphotography.netlify.app/" target="_blank">
-                <img src="https://img.shields.io/badge/-Website-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/-Demo-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
             </a>	
         </p>
         <p><strong>JavaScript, PHP, HTML5, CSS, Bootstrap 5</strong> - An interactive online showcase of the service offerings from a young adventurous local photographer, featuring all kinds of fun little bells and whistles for visitors to play with on the site. </p>
@@ -198,7 +195,7 @@ On a personal level, I believe in community and operate with empathy. I'm always
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://amelia-everly-cruises.netlify.app/" target="_blank">
-                <img src="https://img.shields.io/badge/-Website-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/-Demo-29293d?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVR4nO3bMUvDQBjG8VcRXcRF%2FBIKIqjgJCo4%2BAUK4lbpF3BxcXAU8UuIdBRFFASVuDSDuCsUdFBQ1%2BqgFvzL0Ux6JWlJ6OXy%2FiBj07uHy5OUXkSUUsoCGALWgTPgGfgmP8xYn4BToAwMSieAJeARfzwAi0knvwY08Y9ZFatxk58DvvDXJzDbbvJ9wC3%2BuzFztQWwQHHM2wLYozh2bQGcUBzHtgBqFEfNFkCY4INvwI7jhxljnLDbAAJxnBmjBhBPV4BYlk6YIDm9BMRx2gFoCQZagvG0BMVSHmGC5LQExXFagmgJBlqC8bQExVIeYYLktATFcVqCaAkGWoLxtASly7vAtTjOjDHLFdCM%2Fj90%2BWhmGYAvNADRFfAHeglQ%2BA64ojgubZfAAcWxbwugQnGUbQGMAR%2F47x0Y%2FReAAWzjvy1pBxgwBYG%2FLswc2wZgAMPAEf4x%2B4ZHJAmgP9oye0%2F%2B3ZktstbNkUkAE1EYG8Bmh0c1hQlUu%2FjejWjM49JLQCmFAEqSV6TzbFGRvKG1%2FF5Jz0vsVndXAMvAD%2Bkz51wR19G612blXFwH1DMMoC6uI9uHqENxHTCV0Ws35nWXSckDYCb6TdFIYeKN6FzTvZ6XUkq88wv5pC22E2g7CAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge"/>
             </a>	
         </p>
         <p><strong>HTML5, CSS, and JavaScript</strong> - A fully responsive, simple yet beautiful and modern business card website with a South Florida flavor for a Port of Miami based Cruise Consultant, featuring button animations and a moving wave. </p>
@@ -214,9 +211,6 @@ On a personal level, I believe in community and operate with empathy. I'm always
 <h2 align="center" color="white">Connect with Me</h2>
 <div align="center">
   <p align="center">
-    <a href="https://kristonburnstein.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-29293d?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXElEQVR4nO1aTWsUQRCtEj0ofhzFu/4BP/DjoBfBo4jmLij5B0bRg4J4MSwGooJg/AFeRfC20a2aiMwxm4DZqg2BKCgIntxDQktvQkQTw7jOTPfs1IN3nJlXr6erq4sCMBgMW8K5HdDqHIOkewlYRytJrz1ZPNqPJTNSOYCsD5DkM7K64aB8QpL78P7j/u2D54UzwxX4ZiOAuqe3Dj7Rc8jaCy+ycPaA9ezvwb9dPISsXyMQVxa/wIwc3IgfSZ5FIKpsPl2Lvjm7F1l+RCCobPaA5veBPyoiEBOEQHoRgPVmjQ244ff/eGghwUgyDsjayPjAEpK+rAS91mwxNf7BAHkIFYHXagaw/QHOtgBbDnCWBNlOAWfHIFsd4KwQYqsEnZXCbHcBZ5chttugs+swWz/AWUOErSPkrCXG1hNsWFMUrSus2driJG8g0ZEq0GstoCusw8iGGYD2B6htAQy/Fy0HYKgkCCz3IliJIATSu35CZLS+Bsh1gGThcG0NmOkcWR8o0DS0mNJJ+uHXSAXrhdqtfiLn/xgr0cn6rL482jxY02zuRNIXwcUVz+c+1r9PGLXkWn+8PLzQnCnLQN2r2cas0uU9a9dKnUKS6fUkOQDzGMHtv2Ow73vtpFPAcgWSpd1QNpClnYMBbagqsLYGtLqnkGQCSb//twH+HSQT8E5PQiXAcgtJVnNPYiSrQDoGUYPlBLKsFJjJV4A6xyFWYCmT5xHPLCPpk8INIH0M0SLRkaINAJLLEC2cQ2R9XeDqv/LfgKiRpruA5A6SzCHLt5zYBpLb29fwBhgEPwFf/RoppyBh9gAAAABJRU5ErkJggg==&style=for-the-badge"/>
-    </a>
     <a href="https://twitter.com/kriston_dev" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-29293d?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
     </a>
