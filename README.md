@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kriston-burnstein/kriston-burnstein/main/images/kriston-burnstein.png" alt="Kriston Burnstein Product Strategist with Full Stack Fluency" /></a>
+<a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank" rel="noreferrer"><img alt="Kriston Burnstein Product Strategist with Full Stack Fluency" src="https://github.com/user-attachments/assets/9017c599-f030-4aca-8027-892a5fd3baae" /></a>
 
 <!-- Typing Text -->
 
