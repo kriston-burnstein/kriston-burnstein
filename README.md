@@ -31,9 +31,9 @@
 <p align="left">
 Hi, I’m Kriston.
 
-My work centers on creating clarity from complexity and I enjoy cutting through the noise. I’m a Product Strategist with a software engineering edge, using this space to prototype, test ideas, and stay close to the build process.
+My work centers on creating clarity within complexity and I enjoy cutting through the noise. I’m a Product Strategist with a software engineering edge, using this space to prototype, test ideas, and stay close to the build process.
 
-I believe in community and operate with empathy. I'm always interested in connecting with socially conscious builders and teams.<p>
+I believe in community and operate with empathy. I'm always interested in connecting with mission-driven builders and teams.<p>
 
 <br>
 </br>
