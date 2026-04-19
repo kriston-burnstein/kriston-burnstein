@@ -211,7 +211,7 @@ I believe in community and operate with empathy. I'm always interested in connec
 <h2 align="center" color="white">Connect with Me</h2>
 <div align="center">
   <p align="center">
-    <a href="https://twitter.com/kriston_dev" target="_blank">
+    <a href="https://twitter.com/CreatesClarity" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-29293d?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/kriston-burnstein/" target="_blank">
